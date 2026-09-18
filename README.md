@@ -2,7 +2,7 @@
 
 A backend REST API built with **Node.js, Express.js, TypeScript, and MySQL
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * Node.js
 * Express.js
@@ -12,7 +12,7 @@ A backend REST API built with **Node.js, Express.js, TypeScript, and MySQL
 * Express Validator
 * dotenv
 * CORS
-## ⚙️ Installation
+##  Installation
 
 Clone the repository:
 
@@ -26,7 +26,7 @@ Install dependencies:
 npm install
 ```
 
-## 🔐 Environment Variables
+## Environment Variables
 
 Create a `.env` file in the root directory:
 
@@ -40,7 +40,7 @@ DB_NAME=wallet_db
 DB_PORT=3306
 ```
 
-## 🗄️ Database Setup
+##  Database Setup
 
 Make sure MySQL is running.
 
